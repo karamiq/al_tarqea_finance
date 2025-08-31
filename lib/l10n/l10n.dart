@@ -1,0 +1,1 @@
+export 'package:al_tarqea_finance/utils/kurdish_localization/kurdish_material_localization_delegate.dart';

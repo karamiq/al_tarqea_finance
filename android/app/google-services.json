@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957710477110",
+    "project_id": "al-tarqea-finance",
+    "storage_bucket": "al-tarqea-finance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957710477110:android:1c09d558ba00fb70edb597",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfUU1Glui4cPeOXDYWXZZNOESbUqrQ4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
