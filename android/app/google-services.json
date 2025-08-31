@@ -7,9 +7,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:957710477110:android:1c09d558ba00fb70edb597",
+        "mobilesdk_app_id": "1:957710477110:android:2c5819a4be430902edb597",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "com.karam.alTarqeaFinance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfUU1Glui4cPeOXDYWXZZNOESbUqrQ4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957710477110:android:f4b4af5d73f10fcdedb597",
+        "android_client_info": {
+          "package_name": "com.karam.al_tarqea_finance"
         }
       },
       "oauth_client": [],
